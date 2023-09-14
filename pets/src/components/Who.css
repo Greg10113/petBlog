@@ -1,0 +1,13 @@
+.bro {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+.dawg {
+}
+/* 
+background:
+'linear-gradient(160deg, blue, lightblue 60%, white 65%, white)',
+backgroundRepeat: 'no-repeat',
+backgroundSize: 'cover', */

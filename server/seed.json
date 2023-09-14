@@ -1,0 +1,63 @@
+{
+  "allPets": {
+    "pets": [
+      {
+        "pet_id": 1,
+        "pet": "Blue Tongue Skink",
+        "description": "The blue tongue skink, native to Australia, is known for its distinctive blue tongue used for defense. It is a medium-sized lizard with a robust body, smooth scales, and coloration varying from brown to gray. This omnivorous lizard eats insects, fruits, and plants and gives birth to live young. It is popular in the pet trade for its docile nature and unique appearance.",
+        "img_id": 1,
+        "image": "https://bewildnc.org/wp-content/uploads/2022/07/120583142_628035681246238_3213978798364329250_n.jpg"
+      },
+      {
+        "pet_id": 2,
+        "pet": "Iguana",
+        "description": "Iguanas are herbivorous lizards found in tropical regions. They're known for their distinctive spiky dorsal crests and long tails. These reptiles are excellent climbers and sunbathers, often seen basking on rocks or trees. Iguanas are popular as exotic pets due to their unique appearance and docile nature.",
+        "img_id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W0WDgGi9EzWRdjTmcpvvMKfBcgwVyq1puYvusoOCNXbVxi-KA1WcLQavYQ7gLB_XSR4&usqp=CAU"
+      },
+
+      {
+        "pet_id": 3,
+        "pet": "Crested Gecko",
+        "description": "The crested gecko is a small, arboreal lizard known for its distinctive crest along the back. These colorful lizards are easy to care for and make great pets.",
+        "img_id": 3,
+        "image": "https://www.thesprucepets.com/thmb/ixWkrxvyKh1D80t2_p16uqvoDXg=/2915x0/filters:no_upscale():strip_icc()/care-of-crested-geckos-1238764-04-4f677f55f6744b05afb95f7e38fb1ba5.jpg"
+      },
+      {
+        "pet_id": 4,
+        "pet": "Bearded Dragon",
+        "description": "Bearded dragons are docile, medium-sized lizards. They get their name from the spiky beard-like scales under their throats. Popular in the reptile hobby.",
+        "img_id": 4,
+        "image": "https://i.natgeofe.com/n/e6c936f9-2581-4aad-90fc-ae74afed7549/01-bearded-dragons-nationalgeographic_2205873_4x3.jpg"
+      },
+      {
+        "pet_id": 5,
+        "pet": "Leopard Gecko",
+        "description": "Leopard geckos are small, nocturnal lizards with spotted patterns on their skin. They are low-maintenance and make excellent pets for beginners.",
+        "img_id": 5,
+        "image": "https://www.reptilecentre.com/cdn/shop/articles/leopard-gecko-header.jpg?v=1678348442"
+      },
+      {
+        "pet_id": 6,
+        "pet": "Anole",
+        "description": "Anoles are small, active lizards known for their color-changing abilities. They are native to the Americas and are often kept in vivariums.",
+        "img_id": 6,
+        "image": "https://www.galapagospet.com/wp-content/uploads/2020/10/Green-Anole_HERO.jpg"
+      },
+      {
+        "pet_id": 7,
+        "pet": "Monitor Lizard",
+        "description": "Monitor lizards are large reptiles with long tails and sharp claws. They are not recommended for beginners due to their size and temperament.",
+        "img_id": 7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Varanus_salvator_-_01.jpg/1200px-Varanus_salvator_-_01.jpg"
+      },
+      {
+        "pet_id": 8,
+        "pet": "Chameleon",
+        "description": "Chameleons are unique lizards known for their ability to change color. They have independently moving eyes and are primarily insectivorous.",
+        "img_id": 8,
+        "image": "https://i.natgeofe.com/k/4f137766-4958-4c09-9a56-968d2ae168e2/chameleon-eyes_square.jpg"
+      }
+    ]
+  }
+}
